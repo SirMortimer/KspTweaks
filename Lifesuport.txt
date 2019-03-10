@@ -1,0 +1,20 @@
+Extended Life Support with Chemical Plants
+
+Mission Profile: 5 Kerbals
+
+Required Processors:
+------------------------------
+WaterElectrolysis: 1
+Sabatier: 1 (dump excess LiquidFuel)
+WaterRecycler: 1 (dump excess CO2 and Ammonia)
+
+Resource Tanks:
+-----------------------------
+Waste Water: empty, as small as possible
+CO2: empty, as small as possible
+Hydrogen: empty, as small as possible
+--------------
+8 parts, 1,690kg (1130kg without the LSS unit)
+
+A vessel with just a water recycler can support the same crew for 7 about years when it packs that mass of oxygen.
+
