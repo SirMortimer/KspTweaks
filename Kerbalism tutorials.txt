@@ -1,0 +1,7 @@
+First mission to mun
+Science: auto-transmit science settings, how is science changed from stock
+Automation: running fuel cells when energy is low, exending antennas when connection is lost
+Notifications and Settings: how to set up notifications so that you won't be spammed
+Redundancy and Maintenance: how to repair stuff before it breaks
+Life support: how to extend O2 + Water using Chemical Plants
+
